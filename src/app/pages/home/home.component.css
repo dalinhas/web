@@ -1,0 +1,7 @@
+
+.banner{
+    background-image: url('../../../assets/img/img-eletr.jpg');
+    height: 575px;
+    background-position: center  top;
+    background-size: cover;
+}
